@@ -48,5 +48,5 @@ if option > 0 and option < 5:
 
 else:
     print("This option is not valid!")
-    print('Teste')
+
 
